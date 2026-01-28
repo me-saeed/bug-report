@@ -1,0 +1,32 @@
+# CSV data files (too large for git)
+*.csv
+**/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analysis outputs
+analysis_output.txt
+
+# Matplotlib cache
+.mplstyle
